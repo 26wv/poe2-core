@@ -1,0 +1,3 @@
+game:
+  prefix: /home/<user>/Games/a folder name long enough that PyYAML folds this plain
+    scalar onto a second line/path-of-exile-2

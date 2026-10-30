@@ -1,0 +1,3 @@
+{"timestamp":"2026-01-02T03:00:18","prefix":{"ms_counter":123474789,"hex_id":"1a2b3c5f","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"WhisperReceived","sender":"TraderJoe","text":"Hi, is the bow still for sale?"}}
+{"timestamp":"2026-01-02T03:00:19","prefix":{"ms_counter":123475789,"hex_id":"1a2b3c60","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"WhisperReceived","sender":"<GLD> TraderJoe","text":"price: 5 ex, ok?"}}
+{"timestamp":"2026-01-02T03:00:20","prefix":{"ms_counter":123476789,"hex_id":"1a2b3c61","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"WhisperReceived","sender":"망명자","text":"안녕하세요"}}

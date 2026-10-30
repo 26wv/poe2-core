@@ -1,0 +1,21 @@
+[package]
+name = "poe2-core-node"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+napi = "3.15"
+napi-derive = "3.6"
+poe2-core = { path = "../../crates/poe2-core" }
+serde_json = "1.0.154"
+
+[build-dependencies]
+napi-build = "2.6"
+
+# Its own workspace, outside the root one (ADR 0017).
+[workspace]

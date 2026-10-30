@@ -1,0 +1,18 @@
+hello, an unprefixed line
+2026-01-02 03:04:05 123456789 1a2b3c4d [INFO Client 4242] : ExileOne has been slain.
+2026/01/02 03:00:29 123485789 1a2b3c6a [INFO Client 4242] [WINDOW] Gained focus
+2026/01/02 03:00:30 123486789 1a2b3c6b [INFO Client 4242] Connecting to instance server at 192.0.2.10:6112
+2026/01/02 03:00:31 123487789 1a2b3c6c [INFO Client 4242] $TraderJoe: WTS bow : ExileOne (Warrior) is now level 12
+2026/01/02 03:00:32 123488789 1a2b3c6d [INFO Client 4242] ExileOne: : ExileOne has been slain.
+2026/01/02 03:00:33 123489789 1a2b3c6e [INFO Client 4242] %ExileTwo: x] : ExileOne (Warrior) is now level 5
+2026/01/02 03:00:34 123490789 1a2b3c6f [INFO Client 4242] #ExileTwo: @From TraderJoe: hi
+2026/01/02 03:00:35 123491789 1a2b3c70 [INFO Client 4242] : ExileOne (Warrior) is now level 12.
+2026/01/02 03:00:36 123492789 1a2b3c71 [INFO Client 4242] : Exile One (Warrior) is now level 5
+2026/01/02 03:00:37 123493789 1a2b3c72 [INFO Client 4242] : ExileOne has committed suicide.
+2026/01/02 03:00:38 123494789 1a2b3c73 [INFO Client 4242] : DND mode is now ON. Autoreply "Busy"
+2026/01/02 03:00:39 123495789 1a2b3c74 [INFO Client 4242] : DND mode is now OFF
+2026/01/02 03:00:40 123496789 1a2b3c75 [INFO Client 4242] : 자리 비움 모드를 해제했습니다.
+2026/01/02 03:00:41 123497789 1a2b3c76 [INFO Client 4242] :You have entered Clearfell.
+2026/01/02 03:00:42 123498789 1a2b3c77 [INFO Client 4242] [SCENE] Set Source []
+2026/01/02 03:00:43 123499789 1a2b3c78 [DEBUG Client 4242] Generating level x area "G1_2" with seed 1
+2026/01/02 03:04:05 ***** LOG FILE OPENING ***** again

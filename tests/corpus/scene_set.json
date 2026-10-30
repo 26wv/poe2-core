@@ -1,0 +1,4 @@
+{"timestamp":"2026-01-02T03:00:05","prefix":{"ms_counter":123461789,"hex_id":"1a2b3c52","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"SceneSet","area_name":"(null)"}}
+{"timestamp":"2026-01-02T03:00:06","prefix":{"ms_counter":123462789,"hex_id":"1a2b3c53","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"SceneSet","area_name":"Clearfell"}}
+{"timestamp":"2026-01-02T03:00:07","prefix":{"ms_counter":123463789,"hex_id":"1a2b3c54","log_level":"DEBUG","log_source":"Client","pid":4242},"event":{"type":"SceneSet","area_name":"(unknown)"}}
+{"timestamp":"2026-01-02T03:00:08","prefix":{"ms_counter":123464789,"hex_id":"1a2b3c55","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"SceneSet","area_name":"Mr. Smith's [Old] Hideout"}}

@@ -1,0 +1,4 @@
+{"timestamp":"2026-01-02T03:00:23","prefix":{"ms_counter":123479789,"hex_id":"1a2b3c64","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"AfkOn","autoreply":null}}
+{"timestamp":"2026-01-02T03:00:24","prefix":{"ms_counter":123480789,"hex_id":"1a2b3c65","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"AfkOn","autoreply":null}}
+{"timestamp":"2026-01-02T03:00:25","prefix":{"ms_counter":123481789,"hex_id":"1a2b3c66","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"AfkOn","autoreply":"Back in 5"}}
+{"timestamp":"2026-01-02T03:00:26","prefix":{"ms_counter":123482789,"hex_id":"1a2b3c67","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"AfkOn","autoreply":"Back in 5, \"brb\""}}

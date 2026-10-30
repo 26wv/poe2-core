@@ -1,0 +1,2 @@
+{"timestamp":"2026-01-02T03:00:21","prefix":{"ms_counter":123477789,"hex_id":"1a2b3c62","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"WhisperSent","recipient":"TraderJoe","text":"Yes, sending an invite."}}
+{"timestamp":"2026-01-02T03:00:22","prefix":{"ms_counter":123478789,"hex_id":"1a2b3c63","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"WhisperSent","recipient":"TraderJoe","text":"see: the trade window"}}

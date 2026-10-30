@@ -1,0 +1,2 @@
+{"timestamp":"2026-01-02T03:00:27","prefix":{"ms_counter":123483789,"hex_id":"1a2b3c68","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"AfkOff"}}
+{"timestamp":"2026-01-02T03:00:28","prefix":{"ms_counter":123484789,"hex_id":"1a2b3c69","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"AfkOff"}}

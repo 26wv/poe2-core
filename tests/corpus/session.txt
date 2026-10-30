@@ -1,0 +1,17 @@
+﻿2026/01/02 03:04:05 ***** LOG FILE OPENING *****
+2026/01/02 03:04:11 123707789 1a2b3d48 [INFO Client 4242] [STARTUP] Loading Start
+2026/01/02 03:04:12 123708789 1a2b3d49 [INFO Client 4242] [SCENE] Set Source [(unknown)]
+
+2026/01/02 03:04:13 123709789 1a2b3d4a [INFO Client 4242] [SCENE] Set Source [(null)]
+2026/01/02 03:04:14 123710789 1a2b3d4b [DEBUG Client 4242] Got Instance Details from login server
+2026/01/02 03:04:15 123711789 1a2b3d4c [INFO Client 4242] Connecting to instance server at 192.0.2.10:6112
+2026/01/02 03:04:16 123712789 1a2b3d4d [DEBUG Client 4242] Generating level 1 area "G1_1" with seed 2958305341
+2026/01/02 03:04:17 123713789 1a2b3d4e [INFO Client 4242] [SCENE] Set Source [Riverbank]
+2026/01/02 03:04:18 123714789 1a2b3d4f [INFO Client 4242] : You have entered Riverbank.
+2026/01/02 03:04:19 123715789 1a2b3d50 [INFO Client 4242] : ExileOne (Warrior) is now level 2
+2026/01/02 03:04:20 123716789 1a2b3d51 [INFO Client 4242] @From TraderJoe: Hi, is the bow still for sale?
+2026/01/02 03:04:21 123717789 1a2b3d52 [INFO Client 4242] @To TraderJoe: Yes, sending an invite.
+2026/01/02 03:04:22 123718789 1a2b3d53 [INFO Client 4242] : ExileOne has been slain.
+2026/01/02 03:04:23 123719789 1a2b3d54 [INFO Client 4242] : AFK mode is now ON. Autoreply "Back in 5"
+2026/01/02 03:04:24 123720789 1a2b3d55 [INFO Client 4242] : AFK mode is now OFF
+2026/01/02 03:04:25 123721789 1a2b3d56 [INFO Client 4242] Closing game gracefully

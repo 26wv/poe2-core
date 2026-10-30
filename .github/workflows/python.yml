@@ -1,0 +1,36 @@
+name: Python
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  python:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 30
+    defaults:
+      run:
+        shell: bash
+    env:
+      VENV: ${{ github.workspace }}/bindings/python/.venv
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@master
+        with:
+          toolchain: "1.99"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m venv "$VENV"
+      # Like activating the venv: later steps' python, and the maturin the build backend runs, are the venv's.
+      - run: echo "$VENV/${{ matrix.os == 'windows-latest' && 'Scripts' || 'bin' }}" >> "$GITHUB_PATH"
+      - run: python -m pip install maturin==1.15.0
+      - run: python -m pip install --no-build-isolation ./bindings/python
+      - run: python -m unittest discover -s bindings/python/tests -v

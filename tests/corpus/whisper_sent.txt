@@ -1,0 +1,2 @@
+2026/01/02 03:00:21 123477789 1a2b3c62 [INFO Client 4242] @To TraderJoe: Yes, sending an invite.
+2026/01/02 03:00:22 123478789 1a2b3c63 [INFO Client 4242] @To TraderJoe: see: the trade window

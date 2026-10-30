@@ -1,0 +1,12 @@
+game:
+  arch: win64
+  exe: /home/<user>/Games/path-of-exile-2/drive_c/Program Files (x86)/Grinding Gear
+    Games/Path of Exile 2/PathOfExile.exe
+  prefix: /home/<user>/Games/path-of-exile-2
+game_slug: path-of-exile-2
+name: Path of Exile 2
+runner: wine
+script:
+  game:
+    exe: $GAMEDIR/drive_c/PathOfExile.exe
+    prefix: $GAMEDIR

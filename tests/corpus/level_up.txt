@@ -1,0 +1,4 @@
+2026/01/02 03:00:12 123468789 1a2b3c59 [INFO Client 4242] : ExileOne (Warrior) is now level 2
+2026/01/02 03:00:13 123469789 1a2b3c5a [INFO Client 4242] : ExileOne (Smith of Kitava) is now level 12
+2026/01/02 03:00:14 123470789 1a2b3c5b [DEBUG Client 4242] : ExileTwo (Acolyte of Chayula) is now level 100
+2026/01/02 03:00:15 123471789 1a2b3c5c [INFO Client 4242] : 망명자 (Blood Mage) is now level 33

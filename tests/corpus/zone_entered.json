@@ -1,0 +1,3 @@
+{"timestamp":"2026-01-02T03:00:09","prefix":{"ms_counter":123465789,"hex_id":"1a2b3c56","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"ZoneEntered","area_name":"Clearfell"}}
+{"timestamp":"2026-01-02T03:00:10","prefix":{"ms_counter":123466789,"hex_id":"1a2b3c57","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"ZoneEntered","area_name":"Mr. Smith's Hideout"}}
+{"timestamp":"2026-01-02T03:00:11","prefix":{"ms_counter":123467789,"hex_id":"1a2b3c58","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"ZoneEntered","area_name":"The Grelwood"}}

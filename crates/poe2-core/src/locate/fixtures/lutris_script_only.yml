@@ -1,0 +1,4 @@
+name: Path of Exile 2
+script:
+  game:
+    prefix: $GAMEDIR

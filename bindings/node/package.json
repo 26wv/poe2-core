@@ -1,0 +1,13 @@
+{
+  "name": "poe2-core",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Find Path of Exile 2's files and parse its client log (Node binding of poe2-core)",
+  "license": "MIT OR Apache-2.0",
+  "main": "lib.js",
+  "files": ["lib.js", "index.js", "index.d.ts", "*.node"],
+  "napi": { "binaryName": "poe2-core" },
+  "scripts": { "build": "napi build --platform --release", "test": "node --test test/smoke.test.mjs test/tail.test.mjs" },
+  "devDependencies": { "@napi-rs/cli": "3.10.9" },
+  "engines": { "node": ">= 20.17" }
+}

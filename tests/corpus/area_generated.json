@@ -1,0 +1,4 @@
+{"timestamp":"2026-01-02T03:00:01","prefix":{"ms_counter":123457789,"hex_id":"1a2b3c4e","log_level":"DEBUG","log_source":"Client","pid":4242},"event":{"type":"AreaGenerated","area_level":1,"area_id":"G1_1","seed":2958305341}}
+{"timestamp":"2026-01-02T03:00:02","prefix":{"ms_counter":123458789,"hex_id":"1a2b3c4f","log_level":"DEBUG","log_source":"Client","pid":4242},"event":{"type":"AreaGenerated","area_level":15,"area_id":"G1_town","seed":1}}
+{"timestamp":"2026-01-02T03:00:03","prefix":{"ms_counter":123459789,"hex_id":"1a2b3c50","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"AreaGenerated","area_level":68,"area_id":"MapHideoutCanal","seed":3000000001}}
+{"timestamp":"2026-01-02T03:00:04","prefix":{"ms_counter":123460789,"hex_id":"1a2b3c51","log_level":"DEBUG","log_source":"Client","pid":4242},"event":{"type":"AreaGenerated","area_level":79,"area_id":"c_g2_9_2_","seed":18446744073709551615}}

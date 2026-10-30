@@ -1,0 +1,3 @@
+2026/01/02 03:00:18 123474789 1a2b3c5f [INFO Client 4242] @From TraderJoe: Hi, is the bow still for sale?
+2026/01/02 03:00:19 123475789 1a2b3c60 [INFO Client 4242] @From <GLD> TraderJoe: price: 5 ex, ok?
+2026/01/02 03:00:20 123476789 1a2b3c61 [INFO Client 4242] @From 망명자: 안녕하세요

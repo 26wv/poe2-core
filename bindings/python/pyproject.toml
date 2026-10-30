@@ -1,0 +1,10 @@
+[build-system]
+requires = ["maturin>=1.15,<2"]
+build-backend = "maturin"
+
+[project]
+name = "poe2-core"
+version = "0.1.0"
+description = "Find Path of Exile 2's files and parse its client log (Python binding of poe2-core)"
+requires-python = ">=3.9"
+license = "MIT OR Apache-2.0"

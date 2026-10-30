@@ -1,0 +1,4 @@
+{"timestamp":"2026-01-02T03:00:12","prefix":{"ms_counter":123468789,"hex_id":"1a2b3c59","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"LevelUp","name":"ExileOne","class":"Warrior","level":2}}
+{"timestamp":"2026-01-02T03:00:13","prefix":{"ms_counter":123469789,"hex_id":"1a2b3c5a","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"LevelUp","name":"ExileOne","class":"Smith of Kitava","level":12}}
+{"timestamp":"2026-01-02T03:00:14","prefix":{"ms_counter":123470789,"hex_id":"1a2b3c5b","log_level":"DEBUG","log_source":"Client","pid":4242},"event":{"type":"LevelUp","name":"ExileTwo","class":"Acolyte of Chayula","level":100}}
+{"timestamp":"2026-01-02T03:00:15","prefix":{"ms_counter":123471789,"hex_id":"1a2b3c5c","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"LevelUp","name":"망명자","class":"Blood Mage","level":33}}

@@ -1,0 +1,2 @@
+2026/01/02 03:00:16 123472789 1a2b3c5d [INFO Client 4242] : ExileOne has been slain.
+2026/01/02 03:00:17 123473789 1a2b3c5e [INFO Client 4242] : 망명자 has been slain.

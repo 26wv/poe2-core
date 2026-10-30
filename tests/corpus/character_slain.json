@@ -1,0 +1,2 @@
+{"timestamp":"2026-01-02T03:00:16","prefix":{"ms_counter":123472789,"hex_id":"1a2b3c5d","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"CharacterSlain","name":"ExileOne"}}
+{"timestamp":"2026-01-02T03:00:17","prefix":{"ms_counter":123473789,"hex_id":"1a2b3c5e","log_level":"INFO","log_source":"Client","pid":4242},"event":{"type":"CharacterSlain","name":"망명자"}}

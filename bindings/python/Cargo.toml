@@ -1,0 +1,17 @@
+[package]
+name = "poe2-core-python"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+publish = false
+
+[lib]
+name = "poe2_core"      # the Python module name
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = "0.30.1"         # no extension-module feature: maturin >= 1.9.4 sets PYO3_BUILD_EXTENSION_MODULE
+poe2 = { package = "poe2-core", path = "../../crates/poe2-core" } # renamed: this library is also poe2_core
+serde_json = "1.0.154"
+
+[workspace]

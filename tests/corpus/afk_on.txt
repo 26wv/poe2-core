@@ -1,0 +1,4 @@
+2026/01/02 03:00:23 123479789 1a2b3c64 [INFO Client 4242] : AFK mode is now ON
+2026/01/02 03:00:24 123480789 1a2b3c65 [INFO Client 4242] : AFK mode is now ON.
+2026/01/02 03:00:25 123481789 1a2b3c66 [INFO Client 4242] : AFK mode is now ON. Autoreply "Back in 5"
+2026/01/02 03:00:26 123482789 1a2b3c67 [INFO Client 4242] : AFK mode is now ON. Autoreply "Back in 5, "brb"".
