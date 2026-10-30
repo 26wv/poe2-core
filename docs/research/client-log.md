@@ -1,7 +1,7 @@
 # PoE2 Client.txt: where it lives and what its lines look like
 
 Researched 2026-10-23 for the `log` module and the locator. Sources are public only:
-twelve open-source parsers cloned read-only (commits in the source key), one file fetched from GitHub, and
+twelve open-source parsers at pinned commits (see the source key), one more file from GitHub, and
 GGG's developer docs. No real Client.txt was opened, and every example line here is synthetic.
 "PoE2 source" means a project that targets PoE2 or both games. **(1)** marks a claim that has only one source.
 
@@ -131,7 +131,7 @@ Real logs contain server IPs in `Connecting to instance server` lines (JJ redact
 - The file name doesn't tell you the language: the Kakao client can be switched to English ([SG][sg-i18n]).
 - GGG's own documentation says only this: "Reading the game's log files is okay as long as the user is aware of what you are doing with that data." ([GGG developer docs][ggg-dev]). No GGG page documents the format or the location, and I found no patch note that mentions Client.txt.
 
-### Source key (local read-only clones; permalinks pinned to these commits)
+### Source key (permalinks pinned to these commits)
 
 | Key | Project | Commit | Games |
 |---|---|---|---|
@@ -144,7 +144,7 @@ Real logs contain server IPs in `Connecting to instance server` lines (JJ redact
 | QU | [Vyary/qutm](https://github.com/Vyary/qutm) | `de642de860cee9284aba1ded9cdd0920b30555df` | PoE2 |
 | EU | [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) | `67d1a3637e97b791072129f0cf890e22f385b237` | PoE1+2 |
 | EL | [HeartofPhos/exile-log-api](https://github.com/HeartofPhos/exile-log-api) | `a0e75c0c8ef4c55cc29b29f5796d365be88157ce` | not stated |
-| EE | [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) (one file fetched, not cloned) | `cca30662bf31eaf38bd711e2ec1a6b899a06c40e` | PoE2 |
+| EE | [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) (one file only) | `cca30662bf31eaf38bd711e2ec1a6b899a06c40e` | PoE2 |
 | PLM | [klayveR/poe-log-monitor](https://github.com/klayveR/poe-log-monitor) | `d61aa3334a0f6b1f1ca9cef8164e058d2b9b4349` | PoE1 (2020) |
 | TX | [dermow/TraXile](https://github.com/dermow/TraXile) | `f86a83f15c72db9d89446e7f11781e44bef1d5c8` | PoE1 |
 | poeseed | [TwentyFiveEx/poeseed](https://github.com/TwentyFiveEx/poeseed) | `61366ed5fbf93727136779427268c7435c195147` | PoE1 (2022) |

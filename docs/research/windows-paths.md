@@ -117,7 +117,7 @@ Parser rules backed by the sources above:
 - A library value is either a plain string (legacy) or an object with `path`. If `mounted` is present and not `"1"`,
   skip the library ([lutris-cfg] L277–285).
 - Windows paths are written with doubled backslashes ([forum-vdf], [forum-sample], [steamlocate-acf] L5). Valve's
-  KeyValues escapes are `\n`, `\t`, `\\` and `\"` ([vdc-kv], not checked against the full page)
+  KeyValues escapes are `\n`, `\t`, `\\` and `\"` ([vdc-kv])
   **[1 source for `\"`]**. Windows file names cannot contain `"` ([ms-naming]). A `\"` can
   therefore appear only in text such as `label`, but the parser should still accept it.
 - Both files can list the same library, and `SteamPath` and `InstallPath` can name one root in different case.
@@ -176,7 +176,7 @@ executable is `PathOfExileSteam.exe` with `--nopatch` ([pics]). The default Stea
   `C:\ProgramData`, [ms-kfid]).
 - **`LauncherInstalled.dat`.** A JSON object whose `InstallationList[]` entries carry at least `AppName` and
   `InstallLocation` ([bottles-egs] L31–36, L65–68). It is a second source if the manifest folder is missing.
-- **Default Epic root** `C:\Program Files\Epic Games\` comes from Epic's help page ([epic-help], not checked against the full page) **[1 source]**. The `.item` file's `InstallLocation` is
+- **Default Epic root** `C:\Program Files\Epic Games\` comes from Epic's help page ([epic-help]) **[1 source]**. The `.item` file's `InstallLocation` is
   authoritative anyway.
 - **Identifiers** (Epic catalog via egdata):
 
@@ -315,7 +315,7 @@ and adds about 41 KB in 3 crates (0.6.1, 0.4.1, 0.5.1). Do not add `dirs`, `know
   that the folder exists instead.
 - **Epic:** PoE2's `LaunchExecutable` name. Whether `DisplayName` is ever localised. Whether a Free Weekend install
   becomes the main `AppName` after purchase. The full `LauncherInstalled.dat` schema. The value
-  `HKLM\SOFTWARE\WOW6432Node\Epic Games\EpicGamesLauncher\AppDataPath` (seen only in a forum snippet). The two
+  `HKLM\SOFTWARE\WOW6432Node\Epic Games\EpicGamesLauncher\AppDataPath` (seen in one forum post only). The two
   `AppName`s rest on egdata alone; check them against a real `.item`.
 - **User dir:** where website-subscribed builds are cached. Whether the game creates `BuildPlanner\` itself. Any
   other contents, such as screenshots. Whether the active filter is the `item_filter` key in
